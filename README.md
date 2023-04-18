@@ -1,4 +1,4 @@
-> ~目前已离职，随时到岗，欢迎邮件联系。~ 在职不考虑。
+<!-- > ~目前已离职，随时到岗，欢迎邮件联系。~ 在职不考虑。
 
 ## 邮箱
 admin@jskou.com
@@ -12,6 +12,6 @@ admin@jskou.com
 
 主要技术栈：vue
 
-地点：上海
+地点：上海 -->
 
 ![kouchao's github](https://github-readme-stats.vercel.app/api?username=kouchao&show_icons=true&title_color=FF4C3B&icon_color=FFD034&text_color=333333&bg_color=ffffff)
